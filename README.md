@@ -1,7 +1,10 @@
 # ZAARD_ALX.md
 ZAARD_ALX | Xenocrypt Audit Label 🛡️  Lead Developer experta en el ecosistema ZAARD. Mi enfoque combina la lógica computacional y la resolución de acertijos técnicos (Xenocrypt) para auditar, asegurar y desplegar contratos inteligentes de alta fidelidad. El Fénix es mi sello: garantizo que cada código sea un activo blindado. 🚀
 
-![ZAARD INNOVATION](https://gateway.pinata.cloud/ipfs/bafybeihwgutss2majkvanadmm4rwbp6kpcgywebs3cgpgwdcs45ut3srd4)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/figueredo56/ZAARD-Alerta-Explicada/refs/heads/main/CC_20260430_215529.png" alt="ZAARD Alerta" width="85%">
+</p>
+
 
 # ZAARD_ALX | Xenocrypt Audit Label 🛡️
 
