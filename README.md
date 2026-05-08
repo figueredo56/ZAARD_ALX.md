@@ -1,7 +1,7 @@
 # ZAARD_ALX | Xenocrypt Audit Label 🛡️
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/figueredo56/ZAARD-Alerta-Explicada/refs/heads/main/CC_20260430_215529.png" alt="ZAARD Alerta" width="100%">
+  <img src="https://raw.githubusercontent.com/figueredo56/ZAARD-Alerta-Explicada/refs/heads/main/CC_20260430_215529.png" alt="ZAARD Alerta" width="70%">
 </p>
 
 > **Identity:** The Phoenix – Resilience through Logic.
