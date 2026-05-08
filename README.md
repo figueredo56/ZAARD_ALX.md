@@ -56,10 +56,6 @@ Cualquier contrato desplegado con el **Label ZAARD_ALX** garantiza que la lógic
   <p align="center"><b>XENOCRYPT AUDIT LABEL • LÓGICA COMPUTACIONAL • ALTA FIDELIDAD</b></p>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ZAARD-EL_FÉNIX-gold?style=for-the-badge&labelColor=black">
-  <img src="https://img.shields.io/badge/PANGA-LA_FUERZA-red?style=for-the-badge&labelColor=black">
-</p>
 
 ---
 
