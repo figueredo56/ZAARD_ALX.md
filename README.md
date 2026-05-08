@@ -83,14 +83,7 @@ Cualquier contrato desplegado con el **Label ZAARD_ALX** garantiza que la lógic
 * **SECURITY LABEL:** Etiquetado de seguridad para protocolos de alta fidelidad.
 
 ---
-
-<p align="right">
-  <sub><b>IDENTIDAD:</b> FIGUEREDO56</sub><br>
-  <sub><b>SISTEMA:</b> ZAARD INNOVATION</sub>
-</p>
 ---
----
-
 
 ## 🌐 Our Official Digital Presence
 
@@ -109,4 +102,7 @@ Desarrollado por **Aracelis (Panga)** - Founder de ZAARD INNOVATION.
 > **⚠ CAUTION: Disclaimer ⚠**
 > This repository is for code review and transparent verification. Interacting with smart contracts involves risk. Ensure you are using the officially verified website and channels. This code is not an invitation to invest.
 >
-> 
+> <p align="right">
+  <sub><b>IDENTIDAD:</b> FIGUEREDO56</sub><br>
+  <sub><b>SISTEMA:</b> ZAARD INNOVATION</sub>
+</p>
