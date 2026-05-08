@@ -88,10 +88,9 @@ Cualquier contrato desplegado con el **Label ZAARD_ALX** garantiza que la lógic
   <sub><b>IDENTIDAD:</b> FIGUEREDO56</sub><br>
   <sub><b>SISTEMA:</b> ZAARD INNOVATION</sub>
 </p>
+---
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/base.png" width="100%">
-</p>
 
 ## 🌐 Our Official Digital Presence
 
