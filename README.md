@@ -48,9 +48,8 @@ Cualquier contrato desplegado con el **Label ZAARD_ALX** garantiza que la lógic
 **Status:** `READY TO DEPLOY` | **Dev:** `Aracelis (ZAARD_ALX)`
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/base.png" width="85%">
-</p>
+[![PANGA Evolution](https://raw.githubusercontent.com/figueredo56/PANGA_TOKEN-/3942beb83b23d0500f03eb894ce694db296c6ea3/CC_20260504_235336.png)](https://bscscan.com/token/0xef516ded4cca45207d21056faa1910c2930c96b5)
+
 
 <p align="center">
   <h1 align="center">🛡️ ZAARD & PANGA 🔥</h1>
