@@ -45,7 +45,7 @@ Actualmente gestionando y auditando el despliegue de:
 ## 🛡️ Certificación
 Cualquier contrato desplegado con el **Label ZAARD_ALX** garantiza que la lógica de acertijo ha sido resuelta y los vectores de ataque han sido mitigados.
 
-**Status:** `READY TO DEPLOY` | **Dev:** `Aracelis (ZAARD_ALX)`
+**Status:** `READY TO DEPLOY` | **Dev:** `PANGA (ZAARD_ALX)`
 
 
 [![PANGA Evolution](https://raw.githubusercontent.com/figueredo56/PANGA_TOKEN-/3942beb83b23d0500f03eb894ce694db296c6ea3/CC_20260504_235336.png)](https://bscscan.com/token/0xef516ded4cca45207d21056faa1910c2930c96b5)
