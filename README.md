@@ -52,7 +52,7 @@ Cualquier contrato desplegado con el **Label ZAARD_ALX** garantiza que la lógic
 **Status:** `READY TO DEPLOY` | **Dev:** `PANGA (ZAARD_ALX)`
 
 
-[![PANGA Evolution](https://raw.githubusercontent.com/figueredo56/PANGA_TOKEN-/3942beb83b23d0500f03eb894ce694db296c6ea3/CC_20260504_235336.png)](https://bscscan.com/token/0xef516ded4cca45207d21056faa1910c2930c96b5)
+[![PANGA Evolution](https://photos.pinksale.finance/file/pinksale-logo-upload/1790817451489-015175f1d6de0d2af4093c0e175f274d.png)](https://bscscan.com/token/0x6a7cc7d5749e028c8f78f29c1d6ac8eda0eefad2)
 
 
 <p align="center">
