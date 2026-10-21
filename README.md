@@ -96,6 +96,7 @@ Cualquier contrato desplegado con el **Label ZAARD_ALX** garantiza que la lógic
 Stay connected with the true source of ZAARD innovation.
 
 * **🏠 Official Website:** [https://figueredo56.github.io/DAIoficial//](https://figueredo56.github.io/DAIoficial//)
+* **❤️‍🔥 Official  (TELEGRAM):** [ZAARD_ALX](https://t.me/+Cjo5z_yXcdwzYjM5)
 * **🐦 Official X (Twitter):** [@ZAARD_ALX](https://x.com/ZAARD_ALX)
 * **💰 Binance User Profile (Founder/DAO):** [View on Binance](https://account.binance.com/register?ref=776427353&?registerChannel=user_center) (User ref: 776427353)
 ## 👤 Founder & Lead Developer
