@@ -40,6 +40,10 @@ Actualmente gestionando y auditando el despliegue de:
 *   **PANGA Project:** Desarrollo de tokens con mecánicas de gobernanza.
 *   **Security Vault:** Repositorio de auditorías terminadas y verificadas.
 
+<p align="center">
+  <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1791248681417-56c377de956c1c3a7b33918e7ed78ba7.png" alt="ZAARD Alerta" width="70%">
+</p>
+
 ---
 
 ## 🛡️ Certificación
