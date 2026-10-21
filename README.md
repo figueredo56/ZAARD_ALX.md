@@ -1,7 +1,7 @@
 # ZAARD_ALX | Xenocrypt Audit Label 🛡️
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/figueredo56/ZAARD-Alerta-Explicada/refs/heads/main/CC_20260430_215529.png" alt="ZAARD Alerta" width="70%">
+  <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1790285851823-4955b8f5511ea8235af22dfb82371c91.png" alt="ZAARD Alerta" width="70%">
 </p>
 
 > **Identity:** The Phoenix – Resilience through Logic.
@@ -52,7 +52,9 @@ Cualquier contrato desplegado con el **Label ZAARD_ALX** garantiza que la lógic
 **Status:** `READY TO DEPLOY` | **Dev:** `PANGA (ZAARD_ALX)`
 
 
-[![PANGA Evolution](https://photos.pinksale.finance/file/pinksale-logo-upload/1790817451489-015175f1d6de0d2af4093c0e175f274d.png)](https://bscscan.com/token/0x6a7cc7d5749e028c8f78f29c1d6ac8eda0eefad2)
+[![PANGA Evolution](https://photos.pinksale.finance/file/pinksale-logo-upload/1790817451489-015175f1d6de0d2af4093c0e175f274d.png)](https://bscscan.com/token/0x6a7cc7d5749e028c8f78f29c1d6ac8eda0eefad2) PANGA en BSC.
+
+[![PANGA Evolution](https://photos.pinksale.finance/file/pinksale-logo-upload/1790290143709-10b712b064b3dca0c1a6417000db08e3.png)](https://bscscan.com/token/0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38) ZARD en BSC
 
 
 <p align="center">
